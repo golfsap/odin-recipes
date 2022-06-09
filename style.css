@@ -1,0 +1,44 @@
+h1 {
+    color: #000;
+    background-color: rgb(212, 212, 212);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    /* font-style: italic; */
+}
+
+.waffles h2 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 0, 70%)
+}
+
+.mojito h2 {
+    color: black;
+    background-color: rgb(0, 255, 0, 70%);
+}
+
+.honey-chicken h2 {
+    color: #000;
+    background-color: rgb(255, 165, 0, 70%);
+}
+
+ul {
+    color: blue;
+    background-color: rgba(120, 167, 255, 0.354);
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img {
+    margin: auto;
+    display: block;
+
+    height: auto;
+    width: 500px;
+}
